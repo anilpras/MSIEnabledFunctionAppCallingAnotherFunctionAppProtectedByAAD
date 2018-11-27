@@ -6,5 +6,5 @@
           https://docs.microsoft.com/en-us/azure/app-service/app-service-managed-service-identity 
              
     
- Step# 2: Once MSI is enabled, configure the Server Funcation App and enable 
+ Step# 2: Once MSI is enabled, configure the Server Funcation App and enable the Easy Authentication select "Express"
     
